@@ -1,0 +1,12 @@
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\bin\Debug\ArchivoOfficevb.exe.config
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\bin\Debug\ArchivoOfficevb.exe
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\bin\Debug\ArchivoOfficevb.pdb
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\bin\Debug\ArchivoOfficevb.xml
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.vbprojAssemblyReference.cache
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.Form1.resources
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.Resources.resources
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.vbproj.GenerateResource.cache
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.vbproj.CoreCompileInputs.cache
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.exe
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.xml
+D:\FIME\9 semestre\TI\ArchivosOfficevb\ArchivoOfficevb\ArchivoOfficevb\obj\Debug\ArchivoOfficevb.pdb
